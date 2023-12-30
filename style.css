@@ -1,0 +1,193 @@
+
+.top{
+    background-color: lavender;
+    display: flex;
+    flex-direction: column;
+
+}
+.top > img{
+    margin: 0%;
+    flex: 1;
+    height: 9rem;
+    width: 9rem;
+    align-self: flex-end ;
+}
+#naming{
+    font-size:2rem;
+    flex: 2;
+    font-weight: bold;
+     font-family: 'Caveat', cursive;
+    text-align: center;
+    margin: 0%;
+    color: #341d5c;
+}
+
+#cloud2{
+    margin: 0%;
+    flex: 1;
+    height: 9rem;
+    width: 9rem;
+    align-self: flex-start;
+}
+#cloud2 >img{
+    height: 9rem;
+    width: 9rem;
+}
+#mount >img{
+    height: 20rem;
+    width: 100%;
+}
+#intro{
+    border-radius: 4rem;
+}
+.middle{
+    
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.middle > img{
+   
+   text-align: center;
+   flex:1;
+  
+  margin-top: 8rem;
+    margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 5rem;
+}
+
+#myphoto{
+    height: 20rem;
+    width: 20rem;
+   }
+
+   .middle > p{
+    margin-top: 4rem;
+    ;
+    text-align: center;
+   
+   
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-size: 2rem;
+    padding-bottom: 2rem;
+    
+    
+  
+   }
+.middle >ul{
+    margin-top: 4rem;
+    ;
+    text-align: center;
+   
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.middle>h1{
+    margin-top: 4rem;
+    ;
+    text-align: center;
+   
+   
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-weight: bold;
+    color: purple;
+    
+}
+#dots{
+    color: #F6CFFC;
+}
+.middle>.skills1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+   
+}
+.middle>.skills1>img{
+    height: 9rem;
+
+}
+.middle>.skills>h2{
+    flex:1;
+color: #B47EE5;
+}
+.middle>.skill2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+
+   
+}
+.middle>.skill2>img{
+    height: 9rem;
+
+}
+.middle>.skills>h2{
+    flex:1;
+color: #B47EE5;
+}
+
+
+#nood{
+    height: 9rem;
+}
+.display-5{
+    color: purple;
+}
+.alpha {
+     color: purple; }
+
+.contact-me{
+    display: flex;
+
+    flex-direction: column;
+    align-items: center;
+}
+.contact-me > h2,.contact-me >h3{
+    flex:1;
+
+   
+}
+.contact-me > h2{
+    margin-top: 7rem;
+    font-weight: bold;
+    color: purple;
+    margin-bottom: 3rem;
+    font-size: 3rem;
+}
+.contact-me > h3{
+    font-weight: bold;
+    color: rgb(133, 72, 133);
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+.contact-me > p{
+    font-size: 1.5rem;
+    margin-bottom: 5rem;
+}
+.bottom{
+    margin-top: 7rem;
+    width:100%;
+    height: 15rem;
+
+background-image: linear-gradient(to bottom, #CBC3E3	,	#800080);
+
+}
+.button{
+   padding: 2rem;
+   color: white;
+    background-color: 	#BDB5D5;
+    border-radius: 2rem;
+}
